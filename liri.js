@@ -1,9 +1,10 @@
-// var request = require('request');
-var Twitter = require('twitter');
+// npm modules
+// var Twitter = require('twitter');
 var Spotify = require("spotify");
-var TwitterKeys = require("./keys.js");
 
+// modules imported from my lib
 var Movie = require("./lib/getMovie.js");
+var Tweet = require("./lib/getTweets.js");
 
 
 // get twitter keys
@@ -15,7 +16,8 @@ var userInput = process.argv[3];
 // 2. Execute specific cmd on user input, if applicable
 switch (cmd) {
     case "my-tweets":
-        console.log("getting you your tweets ...");
+        console.log("getting your latest tweets ...");
+        Tweet.getTweets();
         break;
     case "spotify-this-song":
         console.log("getting you the spotify of your song ....");
