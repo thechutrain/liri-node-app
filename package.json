@@ -1,0 +1,30 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "a simple liri app that interacts with twitter, spotify, and OMBD API",
+  "main": "app.js",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thechutrain/liri-node-app.git"
+  },
+  "keywords": [
+    "liri",
+    "twitterAPI",
+    "spotifyAPI",
+    "OMBD",
+    "API"
+  ],
+  "author": "Alan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/thechutrain/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/thechutrain/liri-node-app#readme"
+}
