@@ -1,0 +1,33 @@
+====================================== 
+
+January 24th 2017, 10:04:33 am 
+
+input ==> my-tweets
+output ==> --------- Tweet #1 ----------
+Date-Time: Mon Jan 23 19:33:03 +0000 2017
+Your tweet: "@gargantuanfm it does 😄"
+------------------------------
+--------- Tweet #2 ----------
+Date-Time: Mon Jan 23 19:31:42 +0000 2017
+Your tweet: "Does Node.js print out emojis? 🤔"
+------------------------------
+--------- Tweet #3 ----------
+Date-Time: Mon Jan 23 19:31:09 +0000 2017
+Your tweet: "Messing around with the twitter API :)"
+------------------------------
+
+
+================ END =================
+====================================== 
+
+January 24th 2017, 10:11:47 am 
+
+input ==> spotify-this-song Make the Money
+output ==> 
+------------------
+The song: Make The Money
+Artist: Macklemore & Ryan Lewis
+Preview url: https://open.spotify.com/track/7g3bGUwZaMp0Wve2wSp50F
+
+
+================ END =================
