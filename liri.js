@@ -31,7 +31,7 @@ var executeCmd = function(cmd, userInput){
         Movie.getMovie(userInput); // custom function in my lib folder
         break;
     case "do-what-it-says":
-        console.log("doing what it says? ..");
+        // console.log("doing what it says? ..");
         Random.getRandom();
         break;
     default:
