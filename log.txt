@@ -31,3 +31,34 @@ Preview url: https://open.spotify.com/track/7g3bGUwZaMp0Wve2wSp50F
 
 
 ================ END =================
+====================================== 
+
+January 24th 2017, 10:20:48 am 
+
+input ==> movie-this Forrest Gump
+output ==> 
+title: Forrest Gump
+year: 1994
+IMDB rating: 8.8
+country: USA
+language: English
+plot: Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.
+actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+Rotten Tomatoes Rating: 7.2
+Rotten Tomatoes url: http://www.rottentomatoes.com/m/forrest_gump/
+
+
+================ END =================
+====================================== 
+
+January 24th 2017, 10:22:09 am 
+
+input ==> spotify-this-song "I Want it That Way"
+output ==> 
+------------------
+The song: I Want It That Way
+Artist: Backstreet Boys
+Preview url: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+
+
+================ END =================
