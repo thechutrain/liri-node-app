@@ -1,10 +1,11 @@
 // npm modules
 // var Twitter = require('twitter');
-var Spotify = require("spotify");
+// var Spotify = require("spotify");
 
 // modules imported from my lib
 var Movie = require("./lib/getMovie.js");
 var Tweet = require("./lib/getTweets.js");
+var Music = require("./lib/getMusic.js");
 
 
 // get twitter keys
@@ -21,6 +22,7 @@ switch (cmd) {
         break;
     case "spotify-this-song":
         console.log("getting you the spotify of your song ....");
+        Music.getSong(userInput)
         break;
     case "movie-this":
         console.log("Getting you the movie ..." + userInput);
